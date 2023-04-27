@@ -1,12 +1,12 @@
 # Code for
 # Post-quantum nonlocality in the minimal triangle scenario
-# arXiv:2304.xxxxx
+# arXiv:2305.xxxxx
 #
 # Authors: Alejandro Pozas-Kerstjens
 #
 # Requires: inflation for setting up and solving the problems
 #           numpy for array operations
-# Last modified: Apr, 2023
+# Last modified: May, 2023
 
 import numpy as np
 from inflation import InflationProblem, InflationSDP

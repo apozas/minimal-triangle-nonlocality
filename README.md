@@ -1,7 +1,7 @@
-## Code to accompany *[Post-quantum nonlocality in the minimal triangle scenario](https://www.arxiv.org/abs/2304.xxxxx)*
-#### Alejandro Pozas-Kerstjens and his friends
+## Code to accompany *[Post-quantum nonlocality in the minimal triangle scenario](https://www.arxiv.org/abs/2305.xxxxx)*
+#### Alejandro Pozas-Kerstjens, Antoine Girardin, Tamás Kriváchy, Armin Tavakoli, and Nicolas Gisin
 
-This is a repository containing the computational appendix of the article "*Post-quantum nonlocality in the minimal triangle scenario*. Alejandro Pozas-Kerstjens and his friends [arXiv:2304.xxxxx](https://www.arxiv.org/abs/2304.xxxxx)." It provides the codes for obtaining the results depicted in Figures 3 and 4 in the manuscript.
+This is a repository containing the computational appendix of the article "*Post-quantum nonlocality in the minimal triangle scenario*. Alejandro Pozas-Kerstjens, Antoine Girardin, Tamás Kriváchy, Armin Tavakoli, and Nicolas Gisin [arXiv:2305.xxxxx](https://www.arxiv.org/abs/2305.xxxxx)." It provides the codes for obtaining the results depicted in Figures 3 and 4 in the manuscript.
 
 The code is written in Python and MATLAB.
 
@@ -31,13 +31,13 @@ Files:
 
 If you would like to cite this work, please use the following format:
 
-A. Pozas-Kerstjens, and his friends, _Post-quantum nonlocality in the minimal triangle scenario_, arXiv:2304.xxxxx
+A. Pozas-Kerstjens, A. Girardin, T. Kriváchy, A. Tavakoli, and N. Gisin, _Post-quantum nonlocality in the minimal triangle scenario_, arXiv:2305.xxxxx
 
 ```
 @misc{pozaskerstjens2023minimaltriangle,
   title = {Post-quantum nonlocality in the minimal triangle scenario},
-  author = {Pozas-Kerstjens, Alejandro and his friends},
+  author = {Pozas-Kerstjens, Alejandro and Girardin, Antoine and Kriváchy, Tamás and Tavakoli, Armin and Gisin, Nicolas},
   archivePrefix = {arXiv},
-  eprint = {2304.xxxxx}
+  eprint = {2305.xxxxx}
 }
 ```

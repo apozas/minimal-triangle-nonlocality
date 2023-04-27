@@ -1,10 +1,10 @@
 % Code for
 % Post-quantum nonlocality in the minimal triangle scenario
-% arXiv:2304.xxxxx
+% arXiv:2305.xxxxx
 % 
 % Authors: Alejandro Pozas-Kerstjens
 %
-% Last modified: Apr, 2023
+% Last modified: May, 2023
 
 function [lambda,prob] = HexagonInflation(orig)
 
