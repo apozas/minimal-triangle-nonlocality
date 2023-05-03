@@ -23,6 +23,8 @@ Files:
 
   - [SDP/bisection.py](https://github.com/apozas/minimal-triangle/blob/main/SDP/bisection.py): Bisection code for obtaining the values corresponding to quantum inflations and large classical inflations in Figure 4.
 
+  - [boundary_E1E2E3.txt](https://github.com/apozas/minimal-triangle/blob/main/boundary_E1E2E3.txt): Distributions, characterized by ![](https://latex.codecogs.com/svg.latex?E_1), ![](https://latex.codecogs.com/svg.latex?E_2) and ![](https://latex.codecogs.com/svg.latex?E_3), that lie in the boundary between distributions identified as triangle-nonlocal via inflation and those not identified.
+  
   - [plots.ipynb](https://github.com/apozas/minimal-triangle/blob/main/plots.ipynb): Code to generate the plots and additional visualizations.
 
   - [points_E1E2E3.txt](https://github.com/apozas/minimal-triangle/blob/main/points_E1E2E3.txt): Distributions, characterized by ![](https://latex.codecogs.com/svg.latex?E_1), ![](https://latex.codecogs.com/svg.latex?E_2) and ![](https://latex.codecogs.com/svg.latex?E_3), used for producing the figures.
