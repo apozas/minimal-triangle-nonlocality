@@ -27,9 +27,9 @@ Files:
   
   - [plots.ipynb](https://github.com/apozas/minimal-triangle/blob/main/plots.ipynb): Code to generate the plots and additional visualizations.
 
-  - [points_E1E2E3.txt](https://github.com/apozas/minimal-triangle/blob/main/points_E1E2E3.txt): Distributions, characterized by ![](https://latex.codecogs.com/svg.latex?E_1), ![](https://latex.codecogs.com/svg.latex?E_2) and ![](https://latex.codecogs.com/svg.latex?E_3), used for producing the figures.
+  - [points_E1E2E3.txt](https://github.com/apozas/minimal-triangle/blob/main/points_E1E2E3.txt): Distributions, characterized by ![](https://latex.codecogs.com/svg.latex?E_1), ![](https://latex.codecogs.com/svg.latex?E_2) and ![](https://latex.codecogs.com/svg.latex?E_3), used for producing the figures in the manuscript.
 
-  - [results/](https://github.com/apozas/minimal-triangle/blob/main/results/): Folder where the results of the calculations are stored.
+  - [results](https://github.com/apozas/minimal-triangle/blob/main/results/): Folder where the results of the calculations are stored.
 
 If you would like to cite this work, please use the following format:
 
@@ -40,6 +40,7 @@ A. Pozas-Kerstjens, A. Girardin, T. Kriváchy, A. Tavakoli, and N. Gisin, _Post-
   title = {Post-quantum nonlocality in the minimal triangle scenario},
   author = {Pozas-Kerstjens, Alejandro and Girardin, Antoine and Kriváchy, Tamás and Tavakoli, Armin and Gisin, Nicolas},
   archivePrefix = {arXiv},
-  eprint = {2305.xxxxx}
+  eprint = {2305.xxxxx},
+  year = {2023}
 }
 ```
