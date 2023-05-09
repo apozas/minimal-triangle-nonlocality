@@ -1,6 +1,6 @@
 % Code for
 % Post-quantum nonlocality in the minimal triangle scenario
-% arXiv:2305.xxxxx
+% arXiv:2305.03745
 % 
 % Authors: Alejandro Pozas-Kerstjens
 %
