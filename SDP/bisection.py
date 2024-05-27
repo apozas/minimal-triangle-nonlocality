@@ -1,5 +1,6 @@
 # Code for
 # Post-quantum nonlocality in the minimal triangle scenario
+# New J. Phys. 25, 113037 (2023)
 # arXiv:2305.03745
 #
 # Authors: Alejandro Pozas-Kerstjens

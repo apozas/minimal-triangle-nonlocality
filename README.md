@@ -3,7 +3,7 @@
 ## Code to accompany *[Post-quantum nonlocality in the minimal triangle scenario](https://www.arxiv.org/abs/2305.03745)*
 #### Alejandro Pozas-Kerstjens, Antoine Girardin, Tamás Kriváchy, Armin Tavakoli, and Nicolas Gisin
 
-This is a repository containing the computational appendix of the article "*Post-quantum nonlocality in the minimal triangle scenario*. Alejandro Pozas-Kerstjens, Antoine Girardin, Tamás Kriváchy, Armin Tavakoli, and Nicolas Gisin [arXiv:2305.03745](https://www.arxiv.org/abs/2305.03745)." It provides the codes for obtaining the results depicted in Figures 3 and 4 in the manuscript.
+This is a repository containing the computational appendix of the article "*Post-quantum nonlocality in the minimal triangle scenario*. Alejandro Pozas-Kerstjens, Antoine Girardin, Tamás Kriváchy, Armin Tavakoli, and Nicolas Gisin. [New J. Phys. 25, 113037 (2023)](https://doi.org/10.1088/1367-2630/ad0a16)([arXiv:2305.03745](https://www.arxiv.org/abs/2305.03745))." It provides the codes for obtaining the results depicted in Figures 3 and 4 in the manuscript.
 
 The code is written in Python and MATLAB.
 
@@ -35,10 +35,21 @@ Files:
 
 If you would like to cite this work, please use the following format:
 
-A. Pozas-Kerstjens, A. Girardin, T. Kriváchy, A. Tavakoli, and N. Gisin, _Post-quantum nonlocality in the minimal triangle scenario_, arXiv:2305.03745
+A. Pozas-Kerstjens, A. Girardin, T. Kriváchy, A. Tavakoli, and N. Gisin, _Post-quantum nonlocality in the minimal triangle scenario_, New J. Phys. **25**, 113037 (2023), arXiv:2305.03745
 
 ```
-@misc{pozaskerstjens2023minimaltriangle,
+@article{pozaskerstjens2023minimaltriangle,
+  doi = {10.1088/1367-2630/ad0a16},
+  url = {https://dx.doi.org/10.1088/1367-2630/ad0a16},
+  year = {2023},
+  month = {nov},
+  publisher = {IOP Publishing},
+  volume = {25},
+  number = {11},
+  pages = {113037},
+  author = {Alejandro Pozas-Kerstjens and Antoine Girardin and Tamás Kriváchy and Armin Tavakoli and Nicolas Gisin},
+  title = {Post-quantum nonlocality in the minimal triangle scenario},
+  journal = {New J. Phys.},
   title = {Post-quantum nonlocality in the minimal triangle scenario},
   author = {Pozas-Kerstjens, Alejandro and Girardin, Antoine and Kriváchy, Tamás and Tavakoli, Armin and Gisin, Nicolas},
   archivePrefix = {arXiv},
