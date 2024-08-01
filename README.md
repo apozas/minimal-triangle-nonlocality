@@ -49,8 +49,6 @@ A. Pozas-Kerstjens, A. Girardin, T. Kriváchy, A. Tavakoli, and N. Gisin, _Post-
   author = {Alejandro Pozas-Kerstjens and Antoine Girardin and Tamás Kriváchy and Armin Tavakoli and Nicolas Gisin},
   title = {Post-quantum nonlocality in the minimal triangle scenario},
   journal = {New J. Phys.},
-  title = {Post-quantum nonlocality in the minimal triangle scenario},
-  author = {Pozas-Kerstjens, Alejandro and Girardin, Antoine and Kriváchy, Tamás and Tavakoli, Armin and Gisin, Nicolas},
   archivePrefix = {arXiv},
   eprint = {2305.03745},
   year = {2023}
